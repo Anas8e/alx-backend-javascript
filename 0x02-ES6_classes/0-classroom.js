@@ -1,6 +1,7 @@
+// Define the ClassRoom class
 export default class ClassRoom {
-	constructor(maxStudentsSize) {
-		this._maxStudentsSize = maxStudentsSize;
-	}
+    // Constructor to initialize maxStudentsSize attribute
+    constructor(maxStudentsSize) {
+        this._maxStudentsSize = maxStudentsSize;
+    }
 }
-
