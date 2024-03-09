@@ -1,1 +1,1 @@
-this a non empty readme
+# ES6 Classes
